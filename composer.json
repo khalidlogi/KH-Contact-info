@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "tareq1988/wordpress-settings-api-class": "dev-master"
+      
+    },
+      "autoload": {
+        "psr-4": {
+            "MyNamespace\\": "includes/"
+        }
+    }
+}
+
+
+  
